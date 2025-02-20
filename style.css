@@ -1,0 +1,51 @@
+.a{
+    background-color: aquamarine;
+    border-radius: 10px; 
+    border: 4px solid red;
+}
+.z{
+    color: red;
+}
+.s{
+    color: darkolivegreen;
+}
+.c{
+background-color: yellow;
+border-radius: 10px;
+color: darkolivegreen;
+text-align: center;
+}
+.x{
+    width: 1000px;
+}
+.d{
+    color: aquamarine;
+}
+.f{
+    background-color: yellow;
+}
+.w{
+    background-color: black;
+    color: white;
+}
+.l{
+  
+    background-color: darkolivegreen;
+    color: whitesmoke;
+}
+.q{
+    background-color: blue;
+    color: white;
+}
+.e{
+    background-color: red;
+color: white;
+}
+table{
+border-collapse: collapse;
+width: 600px;
+text-align: center;
+}
+
+
+
